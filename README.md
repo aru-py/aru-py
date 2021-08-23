@@ -1,1 +1,2 @@
-![site_layout](https://user-images.githubusercontent.com/37231424/130116934-53a9fee6-1a3e-4829-903a-2793738ae998.png)
+
+<img src="https://raw.githubusercontent.com/aru-py/huma-history-museum/main/docs/huma.gif" width="100%">
